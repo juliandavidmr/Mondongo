@@ -1,0 +1,31 @@
+{
+  "name": "mondongo",
+  "version": "1.0.0",
+  "description": "A simple module for describe databases and collections of mongodb. ",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/Mondongo.git"
+  },
+  "keywords": [
+    "mongo",
+    "describe",
+    "json"
+  ],
+  "author": "@anlijudavid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/Mondongo/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/Mondongo#readme"
+}
